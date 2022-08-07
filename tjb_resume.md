@@ -32,10 +32,10 @@
 * Built and deployed interactive Shiny dashboard on AWS to keep stakeholders present on project development
 
 ### New York Mets
-*Director, Baseball Research & Development, 2015-2019*
-*Manager, Baseball Research & Development, 2014-2015*
-*Manager, Minor League Operations/Baseball Information, 2012-2014* 
-*Minor League Video Coordinator, 2007-2012* 
+*Director, Baseball Research & Development, 2015-2019*  
+*Manager, Baseball Research & Development, 2014-2015*  
+*Manager, Minor League Operations/Baseball Information, 2012-2014*  
+*Minor League Video Coordinator, 2007-2012*  
 
 * Chief analytical input for organization that won the 2015 National League Championship and advanced to the World Series
 * Oversaw overall structure and direction of Baseball Research and Development department  
